@@ -1,0 +1,12 @@
+{
+  "source": "@FL0WG0D",
+  "url": "https://x.com/FL0WG0D",
+  "generated": "2026-06-16 07:55 ET",
+  "window": "since 2026-06-09",
+  "count": 3,
+  "flows": [
+    {"time": "2026-06-12 12:05 ET", "ticker": "HOOD", "side": "put",  "amount_usd": 317000, "raw": "$317K Put buyer"},
+    {"time": "2026-06-12 11:02 ET", "ticker": "NBIS", "side": "call", "amount_usd": 1100000, "raw": "$1.1M calls"},
+    {"time": "2026-06-11 09:07 ET", "ticker": "CRWV", "side": "call", "amount_usd": 7500000, "strike": 105.0, "expiry": "10/16", "price": 6.79, "raw": "105C 10/16 $7.5M@6.79"}
+  ]
+}
